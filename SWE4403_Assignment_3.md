@@ -28,7 +28,7 @@ node system that makes it very easy for none technical users to implement comple
 
 ### Reliability
 
-While it is true that beginners do tend to crash their designs frequently at the beginning of their Blender that is not due to a design flaw in the system in fact Blender does everything right to prevent accidental crashes.
+While it is true that beginners do tend to crash their designs frequently at the beginning of their Blender journey that is not due to a design flaw in the system in fact Blender does everything right to prevent accidental crashes.
 If a user follows common sense when using Blender it is nearly impossible to break Blender and even so developers still have implemented crash recovery features to prevent major data loss on such occasions.
 
 Blender developers also have regular updates and long term support for most operating systems unlike their competitors which often don't support Linux very well.
